@@ -5,11 +5,11 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>zx10</modelName>
-      <txdName>zx10</txdName>
+      <modelName>Camaro ZL1</modelName>
+      <txdName>Camaro ZL1</txdName>
       <handlingId>zx10</handlingId>
       <gameName>zx10</gameName>
-      <vehicleMakeName>kawasaki</vehicleMakeName>
+      <vehicleMakeName>kawasaki Camaro</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
